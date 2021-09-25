@@ -1,0 +1,33 @@
+---
+title: "Developing Data Products Assignment"
+author: "Saravanaraj K"
+date: "25/09/2021"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+```{r}
+```
+
+## Developing Data Products assignment submission
+
+Submission of 4th week assignment, with interactive graph and reproducible analysis.
+
+## Assignment details
+
+In coursera I am doing developing data products assignment using `mtcars` dataset from datasets package.
+
+## MtCars data
+```{r}
+head(mtcars)
+```
+
+
+## Ui code
+
+Ui code and Server code given in the repository. Please check the below link for codings...
+
+<https://github.com/SaravanarajK-Stat/Developing_DataProducts_Project>
+
+
